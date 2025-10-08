@@ -1,0 +1,5 @@
+flask
+gradio
+pandas
+azure-ai-documentintelligence
+azure-core
